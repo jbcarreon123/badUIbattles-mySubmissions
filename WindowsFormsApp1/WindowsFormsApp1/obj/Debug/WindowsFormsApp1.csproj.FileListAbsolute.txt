@@ -1,0 +1,16 @@
+C:\Users\jbcarreon123\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\jbcarreon123\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jbcarreon123\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\jbcarreon123\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\jbcarreon123\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\jbcarreon123\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CommandChooser.exe.config
+C:\Users\jbcarreon123\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CommandChooser.exe.manifest
+C:\Users\jbcarreon123\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CommandChooser.application
+C:\Users\jbcarreon123\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CommandChooser.exe
+C:\Users\jbcarreon123\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\CommandChooser.pdb
+C:\Users\jbcarreon123\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CommandChooser.Properties.Resources.resources
+C:\Users\jbcarreon123\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CommandChooser.TrustInfo.xml
+C:\Users\jbcarreon123\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CommandChooser.exe.manifest
+C:\Users\jbcarreon123\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CommandChooser.application
+C:\Users\jbcarreon123\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CommandChooser.exe
+C:\Users\jbcarreon123\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CommandChooser.pdb
